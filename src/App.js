@@ -1,8 +1,12 @@
 import './App.css';
+import Nav from './components/Navbar/Nav';
 
 function App() {
   return (
-    <h2>Hello Welcome</h2>
+    <>
+    <Nav />
+    </>
+
   );
 }
 
